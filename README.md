@@ -19,3 +19,9 @@ Organizing interviews or podcasts
 Forensics and call center analytics
 
 A simple way to remember it: speech-to-text tells you what was said, while speaker diarization tells you who said it and at what timestamp said.
+
+
+
+Diarization Error Rate:18.20%
+Initially getting DER=80.21%. After tuning got DER=18.20%. 
+As less DER, Model will be good.
