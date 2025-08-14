@@ -1,4 +1,4 @@
-# Heading 1  Topic: Speaker Diarization
+#   Topic: Speaker Diarization
 
 Speaker diarization is the process of automatically determining “who spoke when” in an audio recording.
 
@@ -22,6 +22,6 @@ A simple way to remember it: speech-to-text tells you what was said, while speak
 
 
 
-# Heading 2 Diarization Error Rate:18.20%. Initially getting DER=80.21%. After tuning got DER=18.20%. As less DER, Model will be good.
+# # Diarization Error Rate:18.20%. Initially getting DER=80.21%. After tuning got DER=18.20%. As less DER, Model will be good.
 
-# Heading 1  Note:voice4label.txt file contain original speaker label and time stamp.
+# #  Note:voice4label.txt file contain original speaker label and time stamp.
