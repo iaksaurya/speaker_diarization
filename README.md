@@ -22,6 +22,6 @@ A simple way to remember it: speech-to-text tells you what was said, while speak
 
 
 
-# # Diarization Error Rate:18.20%. Initially getting DER=80.21%. After tuning got DER=18.20%. As less DER, Model will be good.
+### Diarization Error Rate:18.20%. Initially getting DER=80.21%. After tuning got DER=18.20%. As less DER, Model will be good.
 
-# #  Note:voice4label.txt file contain original speaker label and time stamp.
+###  Note:voice4label.txt file contain original speaker label and time stamp.
